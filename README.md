@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 👋 About Me<br><br>Hi, I'm a passionate Software Engineer and Tech Enthusiast who loves building modern digital experiences and exploring new technologies. I enjoy turning ideas into real-world projects and continuously learning across different domains of technology.<br><br>## 🚀 What I Do<br><br>- 💻 Software Engineering<br>- 🌐 Full Stack Web Development<br>- 🎨 Frontend Development<br>- ⚙️ Backend Development<br>- 🔐 Cyber Security Enthusiast<br>- 📊 Data Science & Analytics<br>- ☁️ Exploring Cloud & AI Technologies<br>- 🧠 Problem Solving & Creative Development<br>
 
 
