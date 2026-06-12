@@ -67,7 +67,7 @@ Currently a third-year CS student, I've independently delivered 5+ full-stack pr
 
 ## Featured Projects
 
-### ðŸ›’ Full-Stack E-Commerce Platform
+### Full-Stack E-Commerce Platform
 > React Â· Node.js Â· Express.js Â· MongoDB Â· Redux Â· Tailwind CSS
 
 End-to-end shopping platform with product listing, cart management, and payment integration. MongoDB schemas handle users, products, and orders via Mongoose. Redux manages centralized state across all app components. Fully responsive across mobile and desktop.
@@ -76,7 +76,7 @@ End-to-end shopping platform with product listing, cart management, and payment 
 
 ---
 
-### ðŸ’¬ Real-Time Chat App (Discord Clone)
+### Real-Time Chat App (Discord Clone)
 > React Â· Node.js Â· Express.js Â· MongoDB Â· Context API
 
 Real-time messaging application replicating core Discord functionality. Persistent chat history stored in MongoDB. Reusable component system for channels, messages, and user lists. Context API manages authentication state and active session data.
@@ -85,7 +85,7 @@ Real-time messaging application replicating core Discord functionality. Persiste
 
 ---
 
-### ðŸŒ¤ Weather Forecasting App
+### Weather Forecasting App
 > React Â· REST API Â· Tailwind CSS
 
 Fetches and displays live weather data from a third-party REST API. Includes robust error handling for unreliable network conditions. Clean, responsive UI built with Tailwind CSS.
@@ -94,7 +94,7 @@ Fetches and displays live weather data from a third-party REST API. Includes rob
 
 ---
 
-### â–¶ï¸ YouTube & Softify UI Clones
+### YouTube & Softify UI Clones
 > React Â· Material UI Â· Dynamic Content Rendering
 
 Pixel-accurate reproductions of production-grade UIs, built to deeply understand component architecture, design systems, and dynamic content rendering patterns.
@@ -105,10 +105,10 @@ Pixel-accurate reproductions of production-grade UIs, built to deeply understand
 
 ## Currently
 
-- ðŸ”¨ &nbsp; Building full-stack MERN projects and deepening knowledge of real-time web architecture
-- ðŸ“– &nbsp; Strengthening DSA fundamentals and system design concepts
-- ðŸ” &nbsp; Exploring application security through the college Cybersecurity club
-- ðŸŽ¯ &nbsp; Targeting frontend and MERN stack roles â€” open to internships and GET positions
+- Building full-stack MERN projects and deepening knowledge of real-time web architecture
+- Strengthening DSA fundamentals and system design concepts
+- Exploring application security through the college Cybersecurity club
+- Targeting frontend and MERN stack roles â€” open to internships and GET positions
 
 ---
 
