@@ -7,7 +7,7 @@
 
 **Frontend & MERN Stack Developer**
 
-B.Tech Computer Science Â· Shivalik College of Engineering, Dehradun
+B.Tech Computer Science | Shivalik College of Engineering, Dehradun
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-negi-690999304)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://ayushnegi.dev)
@@ -20,7 +20,7 @@ B.Tech Computer Science Â· Shivalik College of Engineering, Dehradun
 
 ## About
 
-I build complete web applications â€” from MongoDB schema design to polished, responsive React interfaces. My focus is the MERN stack: writing clean, maintainable JavaScript across the full stack, integrating REST APIs, and shipping things that work in production.
+I build complete web applications - from MongoDB schema design to polished, responsive React interfaces. My focus is the MERN stack: writing clean, maintainable JavaScript across the full stack, integrating REST APIs, and shipping things that work in production.
 
 Currently a third-year CS student, I've independently delivered 5+ full-stack projects and completed a structured MERN internship at Explorin Academy. I'm active in my college's Cybersecurity, Web Development, and Coding clubs, and I care about writing code that's secure, readable, and built to last.
 
@@ -68,38 +68,38 @@ Currently a third-year CS student, I've independently delivered 5+ full-stack pr
 ## Featured Projects
 
 ### Full-Stack E-Commerce Platform
-> React Â· Node.js Â· Express.js Â· MongoDB Â· Redux Â· Tailwind CSS
+> React | Node.js | Express.js | MongoDB | Redux | Tailwind CSS
 
 End-to-end shopping platform with product listing, cart management, and payment integration. MongoDB schemas handle users, products, and orders via Mongoose. Redux manages centralized state across all app components. Fully responsive across mobile and desktop.
 
-[View Repo â†’](https://github.com/negiayushn)
+[View Repo ->](https://github.com/negiayushn)
 
 ---
 
 ### Real-Time Chat App (Discord Clone)
-> React Â· Node.js Â· Express.js Â· MongoDB Â· Context API
+> React | Node.js | Express.js | MongoDB | Context API
 
 Real-time messaging application replicating core Discord functionality. Persistent chat history stored in MongoDB. Reusable component system for channels, messages, and user lists. Context API manages authentication state and active session data.
 
-[View Repo â†’](https://github.com/negiayushn)
+[View Repo ->](https://github.com/negiayushn)
 
 ---
 
 ### Weather Forecasting App
-> React Â· REST API Â· Tailwind CSS
+> React | REST API | Tailwind CSS
 
 Fetches and displays live weather data from a third-party REST API. Includes robust error handling for unreliable network conditions. Clean, responsive UI built with Tailwind CSS.
 
-[View Repo â†’](https://github.com/negiayushn)
+[View Repo ->](https://github.com/negiayushn)
 
 ---
 
 ### YouTube & Softify UI Clones
-> React Â· Material UI Â· Dynamic Content Rendering
+> React | Material UI | Dynamic Content Rendering
 
 Pixel-accurate reproductions of production-grade UIs, built to deeply understand component architecture, design systems, and dynamic content rendering patterns.
 
-[View Repo â†’](https://github.com/negiayushn)
+[View Repo ->](https://github.com/negiayushn)
 
 ---
 
@@ -108,7 +108,7 @@ Pixel-accurate reproductions of production-grade UIs, built to deeply understand
 - Building full-stack MERN projects and deepening knowledge of real-time web architecture
 - Strengthening DSA fundamentals and system design concepts
 - Exploring application security through the college Cybersecurity club
-- Targeting frontend and MERN stack roles â€” open to internships and GET positions
+- Targeting frontend and MERN stack roles - open to internships and GET positions
 
 ---
 
@@ -127,7 +127,7 @@ Pixel-accurate reproductions of production-grade UIs, built to deeply understand
 
 | Certification | Issuer | Year |
 |---|---|---|
-| MERN Stack Web Development â€” Internship & Training | Explorin Academy | 2024 |
+| MERN Stack Web Development - Internship & Training | Explorin Academy | 2024 |
 | Complete Web Development Course (Full-Stack & Frontend) | Udemy | 2025 |
 | Getting Started with Linux Fundamentals (RH104) | Red Hat | 2025 |
 
@@ -137,7 +137,7 @@ Pixel-accurate reproductions of production-grade UIs, built to deeply understand
 
 **Available for internships, freelance projects, and full-time opportunities.**
 
-[ayushnegidet@gmail.com](mailto:ayushnegidet@gmail.com) Â· [linkedin.com/in/ayush-negi-690999304](https://www.linkedin.com/in/ayush-negi-690999304) Â· [ayushnegi.dev](https://ayushnegi.dev)
+[ayushnegidet@gmail.com](mailto:ayushnegidet@gmail.com) | [linkedin.com/in/ayush-negi-690999304](https://www.linkedin.com/in/ayush-negi-690999304) | [ayushnegi.dev](https://ayushnegi.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
 
