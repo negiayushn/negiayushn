@@ -137,7 +137,7 @@ Pixel-accurate reproductions of production-grade UIs, built to deeply understand
 
 **Available for internships, freelance projects, and full-time opportunities.**
 
-[ayushnegidet@gmail.com](mailto:ayushnegidet@gmail.com) | [linkedin.com/in/ayush-negi-690999304](https://www.linkedin.com/in/ayush-negi-690999304) | [ayushnegi.dev](https://ayushnegi.dev)
+[ayushnegidet@gmail.com](mailto:ayushnegidet@gmail.com) | [linkedin.com/in/ayush-negi-690999304](https://www.linkedin.com/in/ayush-negi-690999304) | [ayushnegi.dev](https://portfolio-psi-sandy-89.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
 
